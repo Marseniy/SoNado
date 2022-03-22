@@ -23,3 +23,10 @@ echo "Number is $a"
 done > myfile.txt
 echo "finished."
 
+
+
+
+
+
+it's a new stroc
+
